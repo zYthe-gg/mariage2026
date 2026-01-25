@@ -1,1 +1,5 @@
-
+body tr.bg-button {
+  background-image:url(https://raw.githubusercontent.com/zYthe-gg/mariage2026/refs/heads/main/mariage-bg-button.jpg);
+  width:1200px;
+  height:50px;
+} 
